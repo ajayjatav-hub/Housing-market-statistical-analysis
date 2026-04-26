@@ -36,7 +36,9 @@ Question 1 — Significance of Differences
 | 2009 | No                     | No significant difference |
 | 2011 | Yes                    | Occupied > Not-Occupied |
 | 2013 | No                     | No significant difference |
+
 The difference in market values is statistically significant only for 2005 and 2011, with occupied units carrying a higher market value in both years. For the remaining years (2007, 2009, 2013), no statistically significant difference was observed.
+
 Question 2 — Pattern Over Time
 A consistent directional pattern emerges across all five years: the market value of occupied units is never less than that of not-occupied units. In years where a significant difference exists (2005, 2011), occupied units command higher values; in the remaining years, the two groups are statistically comparable.
 
